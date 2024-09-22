@@ -1,8 +1,8 @@
-## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=F70000&width=435&lines=%F0%9F%92%A2+Ol%C3%A1!+Sou+Samuel+Santos" alt="Typing SVG" /></a>
+## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=500&color=F70707&width=435&lines=%F0%9F%92%A2+Ol%C3%A1!+Sou+Samuel+Santos;+Aprendizagem+constante++!!!" alt="Typing SVG" /></a>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<p align="left"> Sou Samuel Santos, Desenvolvedor de Sistemas e estudante de Sistemas de Informação pela Universidade de Uberaba (Uniube). Minha formação técnica em Desenvolvimento de Sistemas pelo Senac complementa minha trajetória acadêmica. Amo enfrentar novos desafios.
+<p align="left"> Sou Samuel Santos, Desenvolvedor de Sistemas e estudante de Sistemas de Informação pela Universidade de Uberaba (Uniube). Minha formação técnica em Desenvolvimento de Sistemas pelo Senac complementa minha trajetória acadêmica. Amo enfrentar novos desafios e jogar games🎮.
 
 ### 🌐 Connect with me
 
