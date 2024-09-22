@@ -1,16 +1,17 @@
-### Hi there 👋
+## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=F70000&width=435&lines=%F0%9F%92%A2+Ol%C3%A1!+Sou+Samuel+Santos" alt="Typing SVG" /></a>
 
-<!--
-**osamuelfox/osamuelfox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou Samuel Santos, Desenvolvedor de Sistemas e estudante de Sistemas de Informação pela Universidade de Uberaba (Uniube). Minha formação técnica em Desenvolvimento de Sistemas pelo Senac complementa minha trajetória acadêmica. Amo enfrentar novos desafios.
 
-Here are some ideas to get you started:
+### 🌐 Connect with me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div> 
+
+  <a href="https://instagram.com/osamuelfox" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href = "mailto:samuelsantosdesouza92@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/samuelsantosdesouza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
+
+### GitHub Stats
+
+![osamuelfox's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=osamuelfox&theme=dark&show_icons=true&hide_border=true&layout=compact)
